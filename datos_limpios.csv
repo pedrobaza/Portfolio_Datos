@@ -1,0 +1,7 @@
+id_operacion,id_cliente,importe,pais_origen,tipo_alerta
+101,5001,1250.0,España,Normal
+102,5002,8500.5,Suiza,Desconocido
+103,5001,300.0,España,Normal
+104,5003,12000.0,Panamá,Bloqueada
+105,5004,0.0,España,Normal
+106,5002,6200.0,Suiza,Revisión

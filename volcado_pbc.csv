@@ -1,0 +1,9 @@
+id_transaccion,id_cliente,fecha,importe,pais_origen,pais_destino,estado_documentacion,riesgo_sistema
+9001,C-881,2026-10-01,15000.00,España,Andorra,Completa,Bajo
+9002,C-882,2026-10-01,450.00,Francia,España,Completa,Bajo
+9003,C-883,2026-10-02,,España,Panamá,Falta DNI,Alto
+9004,C-881,2026-10-03,4999.00,España,Andorra,Completa,Medio
+9005,C-884,2026-10-03,120000.00,Suiza,Islas Caimán,Caducada,Alto
+9006,C-882,2026-10-04,300.00,Francia,España,,Bajo
+9007,C-885,2026-10-05,9500.00,España,Rusia,Falta Origen Fondos,Alto
+9008,C-881,2026-10-05,4999.00,España,Andorra,Completa,Medio

@@ -1,0 +1,6 @@
+id_transaccion,id_cliente,fecha,importe,pais_origen,pais_destino,estado_documentacion,riesgo_sistema,alerta_fraccionamiento
+9004,C-881,2026-10-03,4999.0,España,Andorra,Completa,Medio,POSIBLE FRACCIONAMIENTO
+9008,C-881,2026-10-05,4999.0,España,Andorra,Completa,Medio,POSIBLE FRACCIONAMIENTO
+9003,C-883,2026-10-02,-1.0,España,Panamá,Falta DNI,Alto,Normal
+9005,C-884,2026-10-03,120000.0,Suiza,Islas Caimán,Caducada,Alto,Normal
+9007,C-885,2026-10-05,9500.0,España,Rusia,Falta Origen Fondos,Alto,Normal
